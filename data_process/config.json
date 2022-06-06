@@ -1,0 +1,7 @@
+{
+  "service_account_json": "project-credentials.json",
+  "project_id" : "projet-iot-m1a",
+  "cloud_region": "us-central1",
+  "my_id": "osadio",
+  "serial_port": "COM8"
+}
